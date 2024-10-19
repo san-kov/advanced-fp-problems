@@ -9,3 +9,4 @@ functional programming problems from Haskell course, Topics include:
 - Pattern Matching
 - Functors
 - Lazy evaluation
+- Functors
